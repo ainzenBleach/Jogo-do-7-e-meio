@@ -2,11 +2,6 @@
 
 Bem-vindo ao repositório do **Jogo de 7 e Meio**, uma versão digital do tradicional jogo de cartas, desenvolvida com **HTML**, **CSS** e **JavaScript puro**.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SEU_USUARIO/NOME_DO_REPOSITORIO)
-![GitHub language count](https://img.shields.io/github/languages/count/SEU_USUARIO/NOME_DO_REPOSITORIO)
-![GitHub top language](https://img.shields.io/github/languages/top/SEU_USUARIO/NOME_DO_REPOSITORIO)
-![GitHub last commit](https://img.shields.io/github/last-commit/SEU_USUARIO/NOME_DO_REPOSITORIO)
-
 ---
 
 ## 🃏 Sobre o jogo
@@ -18,13 +13,6 @@ Você joga contra a banca e deve decidir entre:
 - **Parar**
 
 Quem se aproximar mais de 7,5 vence a rodada.
-
----
-
-## 📷 Prévia
-
-![preview](preview.png)  
-> Interface ilustrativa do jogo rodando no navegador.
 
 ---
 ##Créditos aos sprites
