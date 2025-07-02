@@ -15,9 +15,9 @@ Você joga contra a banca e deve decidir entre:
 Quem se aproximar mais de 7,5 vence a rodada.
 
 ---
-##Créditos aos sprites
-As cartas utilizadas neste jogo fazem parte do pacote:
+## Créditos aos sprites
 
+As cartas utilizadas neste jogo fazem parte do pacote:
 🎴 Playing Cards Pack
 Criado/distribuído por Kenney
 Licenciado sob Creative Commons Zero (CC0)
