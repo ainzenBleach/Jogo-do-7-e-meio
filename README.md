@@ -36,5 +36,5 @@ Licenciado sob Creative Commons Zero (CC0)
 
 1. Faça o clone do repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https://github.com/ainzenBleach/Jogo-do-7-e-meio.git
 
